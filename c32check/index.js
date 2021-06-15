@@ -1,0 +1,15 @@
+"use strict";
+exports.__esModule = true;
+var encoding_1 = require("./encoding");
+exports.c32encode = encoding_1.c32encode;
+exports.c32decode = encoding_1.c32decode;
+exports.c32normalize = encoding_1.c32normalize;
+var checksum_1 = require("./checksum");
+exports.c32checkEncode = checksum_1.c32checkEncode;
+exports.c32checkDecode = checksum_1.c32checkDecode;
+var address_1 = require("./address");
+exports.c32address = address_1.c32address;
+exports.c32addressDecode = address_1.c32addressDecode;
+exports.c32ToB58 = address_1.c32ToB58;
+exports.b58ToC32 = address_1.b58ToC32;
+exports.versions = address_1.versions;
