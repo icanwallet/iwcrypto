@@ -5,11 +5,15 @@
 ## use case
 
 ``` javascript
-//
+//install
+npm i iwcrypto -s
 
 ```
 
 # Changelog
+
+### [1.0.9](2021-06-15)
+* 🔥 add bip39toseed
 
 ### [1.0.7](2021-06-15)
 * 🔥 add bitcoin and eth basecore

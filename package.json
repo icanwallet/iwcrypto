@@ -1,14 +1,25 @@
 {
-  "name": "iwcrypto",
-  "version": "1.0.8",
-  "description": "the coins crypto project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/icanwallet/icanwallet/issues"
-  },
-  "author": "icanwallet",
-  "license": "ISC"
+	"name": "iwcrypto",
+	"version": "1.0.9",
+	"description": "the coins crypto project",
+	"main": "index.js",
+	"homepage": "https://github.com/icanwallet/iwcrypto",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/icanwallet/iwcrypto.git"
+	},
+	"keywords": [
+	    "crypto",
+	    "utilties",
+		"bitcoin wallet",
+		"ethereum wallet"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bugs": {
+		"url": "https://github.com/icanwallet/icanwallet/issues"
+	},
+	"author": "icanwallet",
+	"license": "ISC"
 }
