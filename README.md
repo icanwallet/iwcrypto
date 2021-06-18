@@ -11,6 +11,11 @@ npm i iwcrypto -s
 ```
 
 # Changelog
+### [1.1.1](2021-06-17)
+* 🔥 add utils to the projects
+
+### [1.1.0](2021-06-16)
+* 🔥 add utils to the projects
 
 ### [1.0.9](2021-06-15)
 * 🔥 add bip39toseed
